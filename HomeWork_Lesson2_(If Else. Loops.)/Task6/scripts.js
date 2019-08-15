@@ -1,44 +1,57 @@
-let month = +prompt('Enter the number of month');
-
+let month = +prompt('Enter the number of month (1 to 12)');
+ let result;
 
 switch (month) {
     case 1:
-        console.log(`January`);
+        result='January';
+        console.log(result);
         break;
     case 2:
-        console.log(`February`);
+        result='February';
+        console.log(result);
         break;
     case 3:
-        console.log(`March`);
+        result=`March`;
+        console.log(result);
         break;
     case 4:
-        console.log(`April`);
+        result=`April`;
+        console.log(result);
         break;
     case 5:
-        console.log(`May`);
+        result=`May`;
+        console.log(result);
         break;
     case 6:
-        console.log(`June`);
+        result=`June`;
+        console.log(result);
         break;
     case 7:
-        console.log(`July`);
+        result=`July`;
+        console.log(result);
         break;
     case 8:
-        console.log(`August`);
+        result=`August`;
+        console.log(result);
         break;
     case 9:
-        console.log(`September`);
+        result=`September`;
+        console.log(result);
         break;
     case 10:
-        console.log(`October`);
+        result=`October`;
+        console.log(result);
         break;
     case 11:
-        console.log(`November`);
+        result=`November`;
+        console.log(result);
         break;
     case 12:
-        console.log(`December`);
+        result=`December`;
+        console.log(result);
         break;
     default :
-        console.log('Not a month')
+        result=`Not a month`;
+        console.log(result)
 
 }

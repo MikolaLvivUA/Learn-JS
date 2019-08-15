@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b675215-ba4b-4f4d-a183-75405cfa7cf4" name="Default Changelist" comment="" />
+    <list default="true" id="7b675215-ba4b-4f4d-a183-75405cfa7cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565881003518</updated>
       <workItem from="1565881004681" duration="47000" />
+      <workItem from="1565882883251" duration="505000" />
     </task>
     <servers />
   </component>
@@ -53,7 +59,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
