@@ -38,5 +38,7 @@ switch (month) {
     case 12:
         console.log(`December`);
         break;
+    default :
+        console.log('Not a month')
 
 }
