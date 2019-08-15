@@ -1,44 +1,42 @@
 let month = +prompt('Enter the number of month');
 
 
+/*
 switch (month) {
-    case 1:
-        console.log(`January`);
+    case 1||2||12:
+        console.log(`Winter`);
         break;
-    case 2:
-        console.log(`February`);
+    case 3||4||5:
+        console.log(`Spring`);
         break;
-    case 3:
-        console.log(`March`);
+    case 6||7||8:
+        console.log(`Summer`);
         break;
-    case 4:
-        console.log(`April`);
-        break;
-    case 5:
-        console.log(`May`);
-        break;
-    case 6:
-        console.log(`June`);
-        break;
-    case 7:
-        console.log(`July`);
-        break;
-    case 8:
-        console.log(`August`);
-        break;
-    case 9:
-        console.log(`September`);
-        break;
-    case 10:
-        console.log(`October`);
-        break;
-    case 11:
-        console.log(`November`);
-        break;
-    case 12:
-        console.log(`December`);
+    case 9||10||11:
+        console.log(`Autumn`);
         break;
     default :
         console.log('Not a month')
 
+}*/
+
+
+if (month===1||month===2||month===12){
+    console.log('Winter');
+}
+
+if (month===3||month===4||month===5){
+    console.log('Spring');
+}
+
+if (month===6||month===7||month===8){
+    console.log('Summer');
+}
+
+if (month===9||month===10||month===11){
+    console.log('Autumn');
+}
+
+if (month<=0 || month>12 ){
+    console.log('Not a month')
 }
