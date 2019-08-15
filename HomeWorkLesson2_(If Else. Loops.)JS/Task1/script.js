@@ -1,4 +1,4 @@
-let a= -3;
+let a= +prompt('Please enter number');
 
 if (a === 0) {
     console.log('true')
@@ -7,3 +7,5 @@ if (a === 0) {
 }
 
 
+//Ternarny operator
+if (a===0) ? console.log('true') : console.log('false')

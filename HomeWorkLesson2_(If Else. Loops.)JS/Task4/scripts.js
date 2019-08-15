@@ -1,6 +1,7 @@
 let month = +prompt('Enter the number of month');
 
 
+
 /*
 switch (month) {
     case 1||2||12:
