@@ -4,7 +4,6 @@
 /*Три різних числа вводяться через prompt().
 За допомоги if else вивести іх в порядку зростання. (відсортувати по зростанню)*/
 
-/*
 let a= +prompt('Please enter the first number')
 let b= +prompt('Please enter the second number')
 let c= +prompt('Please enter the second number')
@@ -45,7 +44,7 @@ if(a<c && c<b){
     console.log(b);
 }else {
     console.log('Error')
-}*/
+}
 
 
 //Task2
@@ -116,7 +115,7 @@ if (svitlofor==='green' && isRoadClear){
 /*Трьохзначне число вводиться через prompt , розбити його на окремы цифри ы розставити ъх в порядку зростання*/
 
 
-let number=prompt('enter 3rd numbers')
+/*let number=prompt('enter 3rd numbers')
 
 let a=number%10;
 let b=parseInt(number/10)%10;
@@ -136,7 +135,7 @@ if (a<b && b<c){
     console.log(a + '' + c + '' + b)
 }else {
     console.log('Error')
-}
+}*/
 
 
 

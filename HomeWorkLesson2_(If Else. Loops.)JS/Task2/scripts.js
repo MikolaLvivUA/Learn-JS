@@ -1,8 +1,8 @@
 
 
 //Random number to some sum;
-let min = Math.random()*59;
-
+// let min = Math.random()*59;
+let min = +prompt('Enter number from 1 to 59');
 
 
 if (min<=15 && min!=0) {

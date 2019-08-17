@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Notes/JsNotesLesson2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLesson2_JS/scripts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -32,12 +32,6 @@
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="362" />
-    <option name="y" value="27" />
-    <option name="width" value="650" />
-    <option name="height" value="741" />
   </component>
   <component name="ProjectId" id="1PTZ8bO0VtbOtWvfPZ59HdnCZKt" />
   <component name="ProjectLevelVcsManager">
@@ -75,6 +69,11 @@
       <updated>1565889268776</updated>
       <workItem from="1565889270054" duration="7192000" />
       <workItem from="1565899892438" duration="686000" />
+      <workItem from="1565968465796" duration="65000" />
+      <workItem from="1565968532212" duration="2517000" />
+      <workItem from="1565976922739" duration="3195000" />
+      <workItem from="1566063433420" duration="70000" />
+      <workItem from="1566063504833" duration="3336000" />
     </task>
     <servers />
   </component>
@@ -86,7 +85,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
