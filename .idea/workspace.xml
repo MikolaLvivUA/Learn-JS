@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consultation1JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Consultation1JS/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +39,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -55,6 +55,14 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="scripts.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="Lesson3_(Object.Arrays. Functions basic)JS/scripts.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,6 +82,9 @@
       <workItem from="1566063433420" duration="70000" />
       <workItem from="1566063504833" duration="3509000" />
       <workItem from="1566130711679" duration="4744000" />
+      <workItem from="1566292198669" duration="186000" />
+      <workItem from="1566292385529" duration="694000" />
+      <workItem from="1566293093838" duration="8305000" />
     </task>
     <servers />
   </component>
