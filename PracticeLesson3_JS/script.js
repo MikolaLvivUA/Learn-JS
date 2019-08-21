@@ -113,10 +113,21 @@ console.log(randomArr2);
 
 //Task10  створити масив з будь якими значеннями (стрінги, числа, і тд...). пройтись по ньому, і якщо об'єкт є числом,
 //  додати його в інший масив.
-console.log('__________________________');
 
-let lastArr = [22, 'okten', 346, 'I am a Batman', 28, 4567, 142, 'Ukraine', 'Seat', 345];
-let lastArr2 = [];
+console.log('_________________________________________________________________________________');
 
-for (let j = 0; j < lastArr.length; j++)
+let arr11 = [22, 'Batman', 34, 'Okten', 5, 'source', 455, 'PowerWolf'];
+let arr22 = [];
 
+for (let i = 0; i < arr11.length; i++) {
+
+    if (typeof arr11[i] === 'string'){
+
+        console.log(arr11[i]);
+        arr22.push(arr11[i])
+
+    }
+
+}
+
+console.log(arr22);
