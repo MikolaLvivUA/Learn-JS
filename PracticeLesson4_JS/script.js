@@ -22,49 +22,113 @@
 
 
 
+function taskNumberLoger(taskNumber) {
 
+    if (typeof taskNumber !== 'number') {
+        throw new Error('taskNumber not correct')
+    }
+
+    console.log('______________________' + 'Task' + taskNumber + '________________________________');
+
+}
 
 
 /**Task1*/
+taskNumberLoger(1);
 
+function arrayLoger() {
 
-function arrayLog() {
+    console.log(Object.values(arguments));
+    return arguments;
 
-    let arrValue = Object.values(arguments);
-
-    console.log(arrValue);
 }
 
+arrayLoger(22, 11, 33, 444, 55, 6, 7, 88);
 
 /**Task2*/
+taskNumberLoger(2);
 
-function randomNumberArray(amountElements) {
+function randomNumberPusher(amountOfValues) {
 
-        let arr = []
-        while (arr.length < amountElements){
-
-            let rundomNumber = parseInt(Math.random(1)*999);
-            arr.push(rundomNumber)
-        }
-
-    arrayLog(arr)
+    let arr = [];
+    while (arr.length < amountOfValues) {
+        let randomValues = parseInt(Math.random() * 999)
+        arr.push(randomValues);
+    }
     return arr;
 }
 
-randomNumberArray(10);
+arrayLoger(randomNumberPusher(8));
+
+taskNumberLoger(3);
+
+function biggestArrNum() {
+
+    let arr = randomNumberPusher(10);
+    let biggestNum = Math.max(...arr);
+    console.log(biggestNum);
+    return biggestNum
+}
+
+biggestArrNum();
+
+taskNumberLoger(4);
+
+function arrayValueSummer() {
+
+    let arr = randomNumberPusher(10);
+    console.log(arr);
+    let sum = 0;
+    for (let i = 0; i < arr.length; i++) {
+
+        sum += arr[i];
+
+    }
+
+    return sum;
+
+}
+
+let sum = arrayValueSummer();
+
+console.log(sum);
+
+taskNumberLoger(5);
+
+function taskFive() {
+
+    let arr = randomNumberPusher(10);
+    let arr2 = randomNumberPusher(10);
+    let arr3 = [];
+    sumSamillindexValue = 0;
+
+    for (let i = 0, j = 0; i < arr.length && j < arr2.length; i++, j++) {
+
+        if (i === j){
+            sum = arr[i] + arr2[j];
+            arr3.push(sum);
+        }
+
+    }
+
+    return arr3;
+
+}
+
+let newSumArr = taskFive();
+console.log(newSumArr);
+
+taskNumberLoger(6);
+
+function zeroSwitcher() {
+
+    let arr = arrayLoger(1, 0, 2, 0, 3, 4, 0, 5)
+    
 
 
-/**Task3*/
 
-function biggestArrnumber() {
-
-    let arr3 = randomNumberArray(10)
-
-    let maxNumber = Math.max(...arr3);
-
-    console.log(maxNumber);
 
 
 }
 
-biggestArrnumber()
+zeroSwitcher();
