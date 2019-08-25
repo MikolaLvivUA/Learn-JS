@@ -11,7 +11,6 @@
  [2,3,4,5]
  результат
  [3,5,7,9]
-
  6 --// -- яка буде переносити елементи з значенням 0 у кінець маисву. Зберігаючи при цьому порядок не нульових значень.
  Двожина масиву від 2 до 100
  Приклад
@@ -59,7 +58,7 @@ function randomNumberPusher(amountOfValues) {
 }
 
 arrayLoger(randomNumberPusher(8));
-
+/**Task3*/
 taskNumberLoger(3);
 
 function biggestArrNum() {
@@ -71,28 +70,26 @@ function biggestArrNum() {
 }
 
 biggestArrNum();
-
+/**Task4*/
 taskNumberLoger(4);
 
 function arrayValueSummer() {
 
     let arr = randomNumberPusher(10);
-    console.log(arr);
+    if (!Array.isArray(arr)) throw new Error('NOT ARRAY');
     let sum = 0;
     for (let i = 0; i < arr.length; i++) {
 
         sum += arr[i];
 
     }
-
     return sum;
-
 }
 
 let sum = arrayValueSummer();
 
 console.log(sum);
-
+/**Task5*/
 taskNumberLoger(5);
 
 function taskFive() {
@@ -117,7 +114,7 @@ function taskFive() {
 
 let newSumArr = taskFive();
 console.log(newSumArr);
-
+/**Task6*/
 taskNumberLoger(6);
 
 function zeroSwitcher() {

@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task3/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task8/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task8/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation1JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation1JS/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PracticeLesson4_JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLesson4_JS/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +23,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -46,8 +52,9 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,20 +68,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.script.js (6)">
-    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
+  <component name="RunManager" selected="Node.js.HomeWork.js">
+    <configuration name="HomeWork.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HomeWork.js" working-dir="$PROJECT_DIR$/HomeWorkLesson5_(Array Function)JS">
       <method v="2" />
     </configuration>
-    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task3">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
     <configuration name="script.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task8">
       <method v="2" />
     </configuration>
-    <configuration name="script.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task6">
+    <configuration name="script.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task8">
       <method v="2" />
     </configuration>
-    <configuration name="script.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task1">
+    <configuration name="script.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/Lesson5_(Array Function)JS">
       <method v="2" />
     </configuration>
     <configuration name="script.js (6)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/PracticeLesson4_JS">
@@ -85,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.script.js (6)" />
-        <item itemvalue="Node.js.script.js (2)" />
-        <item itemvalue="Node.js.script.js (1)" />
-        <item itemvalue="Node.js.script.js (5)" />
+        <item itemvalue="Node.js.HomeWork.js" />
         <item itemvalue="Node.js.script.js (4)" />
+        <item itemvalue="Node.js.script.js (6)" />
+        <item itemvalue="Node.js.script.js (3)" />
+        <item itemvalue="Node.js.script.js (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +129,9 @@
       <workItem from="1566466134018" duration="17716000" />
       <workItem from="1566493241635" duration="6855000" />
       <workItem from="1566587716824" duration="10000000" />
+      <workItem from="1566634046392" duration="954000" />
+      <workItem from="1566677689944" duration="8035000" />
+      <workItem from="1566716878362" duration="10555000" />
     </task>
     <servers />
   </component>
