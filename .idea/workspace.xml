@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consultation1JS/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consultation1JS/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeLesson4_JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLesson4_JS/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,14 +65,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.HomeWork.js">
+  <component name="RunManager" selected="Node.js.HomeWork(Cars).js">
+    <configuration name="HomeWork(Cars).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HomeWork(Cars).js" working-dir="$PROJECT_DIR$/HomeWorkLesson5_(Array Function)JS">
+      <method v="2" />
+    </configuration>
     <configuration name="HomeWork.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HomeWork.js" working-dir="$PROJECT_DIR$/HomeWorkLesson5_(Array Function)JS">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
-      <method v="2" />
-    </configuration>
-    <configuration name="script.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task8">
       <method v="2" />
     </configuration>
     <configuration name="script.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task8">
@@ -92,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.HomeWork(Cars).js" />
         <item itemvalue="Node.js.HomeWork.js" />
         <item itemvalue="Node.js.script.js (4)" />
         <item itemvalue="Node.js.script.js (6)" />
         <item itemvalue="Node.js.script.js (3)" />
-        <item itemvalue="Node.js.script.js (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +128,8 @@
       <workItem from="1566587716824" duration="10000000" />
       <workItem from="1566634046392" duration="954000" />
       <workItem from="1566677689944" duration="8035000" />
-      <workItem from="1566716878362" duration="10555000" />
+      <workItem from="1566716878362" duration="11438000" />
+      <workItem from="1566768025446" duration="10179000" />
     </task>
     <servers />
   </component>
