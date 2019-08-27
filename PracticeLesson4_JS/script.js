@@ -117,15 +117,24 @@ console.log(newSumArr);
 /**Task6*/
 taskNumberLoger(6);
 
-function zeroSwitcher() {
+let arrToChange = [1, 0, 6, 0, 3];
+let normalizedArr = [];
 
-    let arr = arrayLoger(1, 0, 2, 0, 3, 4, 0, 5)
-    
+for (let i = 0; i < arrToChange.length; i++) {
 
-
-
-
+    if (arrToChange[i] === 0){
+        normalizedArr.push(arrToChange[i])
+    }
 
 }
 
-zeroSwitcher();
+for (let i = arrToChange.length - 1; i >= 0; i--) {
+    if (arrToChange[i] !== 0){
+        normalizedArr.unshift(arrToChange[i]);
+    }
+
+}
+
+
+console.log(arrToChange);
+console.log(normalizedArr);
