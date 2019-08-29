@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="" />
+    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork6_(Closures.Arrow Function.)JS/homework6.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson6_(Closures.Arrow Function.)JS/homework6.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWork6_(Closures.Arrow Function.)JS/homework6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson6_(Closures. Arrow Functions.)JS/lesson6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1935" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PracticeLesson6_JS/practice6.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,14 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/HomeWork6_(Closures.Arrow Function.)JS/homework6.js" />
-        <option value="$PROJECT_DIR$/PracticeLesson6_JS/practice6.js" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -82,40 +48,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWork6_(Closures.Arrow Function.)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson6_(Closures. Arrow Functions.)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeLesson6_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -126,7 +58,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,11 +72,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.practice6.js">
+  <component name="RunManager" selected="Node.js.homework6.js">
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
     <configuration name="consultation.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="consultation.js" working-dir="$PROJECT_DIR$/Consultation2_JS(DESTRUCTURIZATION)">
+      <method v="2" />
+    </configuration>
+    <configuration name="homework6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="homework6.js" working-dir="$PROJECT_DIR$/HomeWorkLesson6_(Closures.Arrow Function.)JS">
       <method v="2" />
     </configuration>
     <configuration name="lesson6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson6.js" working-dir="$PROJECT_DIR$/Lesson6_(Closures. Arrow Functions.)JS">
@@ -156,19 +91,16 @@
     <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/PracticeLesson5_JS">
       <method v="2" />
     </configuration>
-    <configuration name="script.js (6)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/PracticeLesson4_JS">
-      <method v="2" />
-    </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="PracticeLesson3_JS/script.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.homework6.js" />
         <item itemvalue="Node.js.practice6.js" />
         <item itemvalue="Node.js.lesson6.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.consultation.js (1)" />
-        <item itemvalue="Node.js.script.js (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -209,34 +141,9 @@
       <workItem from="1566925991893" duration="4421000" />
       <workItem from="1567074501619" duration="12022000" />
       <workItem from="1567097809888" duration="6697000" />
+      <workItem from="1567108848304" duration="11041000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6697000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -247,12 +154,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -273,26 +174,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HomeWork6_(Closures.Arrow Function.)JS/homework6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson6_(Closures. Arrow Functions.)JS/lesson6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1935" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticeLesson6_JS/practice6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
