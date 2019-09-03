@@ -8,7 +8,7 @@ let cars = [
     {model: 'Seat Arona', enginePowerHP: 115, owner: {name: 'Yaroslav', age: 25, expYears: 2}, price: 35000, year: '2018' },
     {model: 'Skoda Fabia', enginePowerHP: 80, owner: {name: 'Oleksandr', age: 25, expYears: 2}, price: 5000, year: '2008' },
     {model: 'Fiat Doblo', enginePowerHP: 95, owner: {name: 'Oleg', age: 25, expYears: 6}, price: 6500, year: '2007' },
-    {model: 'Ford Transit', enginePowerHP: 90, owner: {name: 'Nazar', age: 26, expYears: 4}, price: 2000, year: '2000' },
+    {model: 'For d Transit', enginePowerHP: 90, owner: {name: 'Nazar', age: 26, expYears: 4}, price: 2000, year: '2000' },
     {model: 'Mercedes E225', enginePowerHP: 170, owner: {name: 'Oleksiy', age: 21, expYears: 2}, price: 3500, year: '2000' },
     {model: 'Lada 21011', enginePowerHP: 80, owner: {name: 'Yan', age: 24, expYears: 5}, price: 1500, year: '1976' },
     {model: 'Seat Leon', enginePowerHP: 230, owner: {name: 'Bogdan', age: 31, expYears: 4}, price: 8000, year: '2008' },
