@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="" />
+    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.consultation3.js">
+  <component name="RunManager" selected="Node.js.lesson7.js">
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
@@ -76,10 +78,10 @@
     <configuration name="lesson6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson6.js" working-dir="$PROJECT_DIR$/Lesson6_(Closures. Arrow Functions.)JS">
       <method v="2" />
     </configuration>
-    <configuration name="practice6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="practice6.js" working-dir="$PROJECT_DIR$/PracticeLesson6_JS">
+    <configuration name="lesson7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson7.js" working-dir="$PROJECT_DIR$/Lesson7_(Callback. Event Loop. Recursion)">
       <method v="2" />
     </configuration>
-    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/PracticeLesson5_JS">
+    <configuration name="practice6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="practice6.js" working-dir="$PROJECT_DIR$/PracticeLesson6_JS">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="PracticeLesson3_JS/script.js" working-dir="$PROJECT_DIR$">
@@ -87,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.lesson7.js" />
         <item itemvalue="Node.js.consultation3.js" />
         <item itemvalue="Node.js.homework6.js" />
         <item itemvalue="Node.js.practice6.js" />
         <item itemvalue="Node.js.lesson6.js" />
-        <item itemvalue="Node.js.script.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +137,7 @@
       <workItem from="1567108848304" duration="11041000" />
       <workItem from="1567242795267" duration="7376000" />
       <workItem from="1567413192124" duration="6276000" />
-      <workItem from="1567506353123" duration="233000" />
+      <workItem from="1567506353123" duration="11114000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567506581967</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Consultatuion 3 &amp; deep copy">
+      <created>1567506590494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567506590494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
