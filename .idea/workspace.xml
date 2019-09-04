@@ -1,44 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="" />
+    <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson7_(Callback. Event Loop. Recursion)/lesson7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticeLesson7_JS/practise7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,14 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/PracticeLesson7_JS/practise7.js" />
-        <option value="$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -75,54 +38,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="640" />
-    <option name="height" value="555" />
-  </component>
   <component name="ProjectId" id="1PTZ8bO0VtbOtWvfPZ59HdnCZKt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson7_(Callback.Event loop.Recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson5_(Array Function)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson7_(Callback. Event Loop. Recursion)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeLesson7_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -222,6 +140,7 @@
       <workItem from="1567413192124" duration="6276000" />
       <workItem from="1567506353123" duration="11114000" />
       <workItem from="1567529269013" duration="4931000" />
+      <workItem from="1567601157335" duration="6074000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -247,32 +166,6 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4931000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17398119" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -282,12 +175,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -312,34 +199,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Consultatuion 3 &amp; deep copy" />
     <option name="LAST_COMMIT_MESSAGE" value="Consultatuion 3 &amp; deep copy" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2167" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson7_(Callback. Event Loop. Recursion)/lesson7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticeLesson7_JS/practise7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
