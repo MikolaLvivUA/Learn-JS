@@ -29,8 +29,8 @@ class Car {
         this.EnginePower = EnginePower;
     }
 
-    carInfo(Newcar){
-        console.log(Newcar);
+    carInfo(){
+        console.log(this);
 
     }
 
@@ -60,7 +60,7 @@ let ChevroletAveo = new Car ('Chevrolet', 'Aveo', '2008', 1.5, 85);
 let BugattiVeyron = new Car ('Bugatti', 'VeyronSuperSport', '2017', 16.0, 1200);
 
 
-SeatArona.carInfo(SeatArona);
+SeatArona.carInfo()
 
 taskNumCount();
 
@@ -107,7 +107,7 @@ class Product {
         this.type = type;
     }
     productInfo(productName){
-        console.log(productName);
+        console.log(this);
     }
 }
 
