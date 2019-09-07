@@ -133,7 +133,6 @@ console.log(a);*/
 console.log(carOwner);*/
 
 /** /**Функція findIndex Пробігається ітератором по масиву знаходить перший елеиент яукий попадає під задані умови і повертає його індекс*/
-
 /*
 let a = arr.findIndex(function (value) {
 
@@ -141,8 +140,8 @@ let a = arr.findIndex(function (value) {
 
 });
 
-console.log(a);
-/!** Приклад з обэктом*!/
+console.log(a);*/
+/** Приклад з обэктом*/
 
 let carOwner = objArr.findIndex(function (user) {
 
@@ -151,7 +150,6 @@ let carOwner = objArr.findIndex(function (user) {
 });
 
 console.log(carOwner);
-*/
 
 /**Функція flat розкриває масив в масиві вказати треба рівні вкладеності*/
 /*

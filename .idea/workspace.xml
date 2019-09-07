@@ -2,16 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeLesson7_JS/practise7.js" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLesson7_JS/practise7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeLesson8_JS/Practice8.js" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeLesson8_JS/Practice8.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1874">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="73" lean-forward="true" selection-start-line="56" selection-end-line="73" />
+              <folding>
+                <element signature="e#1249#1535#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +58,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" />
+      </list>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -40,9 +84,34 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="640" />
+    <option name="height" value="555" />
+  </component>
   <component name="ProjectId" id="1PTZ8bO0VtbOtWvfPZ59HdnCZKt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -72,9 +141,6 @@
     <configuration name="HW8(Popelushka).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HW8(Popelushka).js" working-dir="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS">
       <method v="2" />
     </configuration>
-    <configuration name="HW8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HW8.js" working-dir="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS">
-      <method v="2" />
-    </configuration>
     <configuration name="Practice8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Practice8.js" working-dir="$PROJECT_DIR$/PracticeLesson8_JS">
       <method v="2" />
     </configuration>
@@ -90,13 +156,16 @@
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="PracticeLesson3_JS/script.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.HW8(Popelushka).js" />
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.practise7.js" />
         <item itemvalue="Node.js.Practice8.js" />
-        <item itemvalue="Node.js.HW8.js" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +215,7 @@
       <workItem from="1567670360745" duration="14700000" />
       <workItem from="1567713310971" duration="9643000" />
       <workItem from="1567766723754" duration="13712000" />
+      <workItem from="1567853400114" duration="11249000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -185,6 +255,32 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11249000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13009404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -194,6 +290,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -220,5 +322,34 @@
     <MESSAGE value="HomeWorkLesson7" />
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
     <option name="LAST_COMMIT_MESSAGE" value="Lesson8 &amp; HomeWork_lesson8" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1874">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="73" lean-forward="true" selection-start-line="56" selection-end-line="73" />
+          <folding>
+            <element signature="e#1249#1535#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
