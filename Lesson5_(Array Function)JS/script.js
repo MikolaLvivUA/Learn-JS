@@ -103,8 +103,8 @@ let isSome = arr.some(function (number) {
 console.log(isSome);
 */
  /**Приклад з обєктом в масиві*/
-
 /*
+
  let isSome = objArr.some(function (number) {
 
      return number.car
@@ -121,17 +121,16 @@ console.log(isSome);
 
 });
 
-console.log(a);
-/!** Приклад з обэктом*!/
+console.log(a);*/
+/** Приклад з обэктом*/
 
-let carOwner = objArr.find(function (user) {
+/*let carOwner = objArr.find(function (user) {
 
     return user.car
 
 });
 
-console.log(carOwner);
-*/
+console.log(carOwner);*/
 
 /** /**Функція findIndex Пробігається ітератором по масиву знаходить перший елеиент яукий попадає під задані умови і повертає його індекс*/
 
@@ -232,6 +231,7 @@ console.log(spliced);
 console.log(arr2);*/
 
 
+/*
 let arr5 = arr.map(function (value) {
 
     if (value===5){
@@ -242,3 +242,4 @@ let arr5 = arr.map(function (value) {
 });
 
 console.log(arr5);
+*/

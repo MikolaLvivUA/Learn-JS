@@ -18,8 +18,16 @@ console.log(sum);
 */
 
 
-function fibonachi(num, callback) {
+function fibonacci(max) {
+    let result = [0, 1];
 
-    return n <=
+    for (let i = 1; result[i] < max; i++) {
+        result.push(result[i] + result[i - 1]);
+    }
 
-};
+    console.log(result);
+
+}
+
+
+fibonacci(6);
