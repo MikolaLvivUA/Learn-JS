@@ -2,51 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation1_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation1_JS/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation2_JS(DESTRUCTURIZATION)/consultation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consultation3_JS/consultation3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/.idea/HomeWork_Lesson2_(If Else. Loops.).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task1/Task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/Task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task2/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task3/Умова.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/Task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task4/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/Task.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task5/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/.idea/Task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/Text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson2_(If Else. Loops.)JS/Task6/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task 17/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task1/SCRIPT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task10/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task18/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task19/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task2/SCRIPT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task4/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task7/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson3_(Object.Arrays. Functions basic)/Task9/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task4/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task7/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Task8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson4_(ref vs primitive. Function)/Tasks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson5_(Array Function)JS/HomeWork(Cars).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson5_(Array Function)JS/HomeWork.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson6_(Closures.Arrow Function.)JS/homework6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson7_(Callback.Event loop.Recursion/HomeWork7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4_(ref vs primitive. Function)/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6_(Closures. Arrow Functions.)JS/lesson6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson7_(Callback. Event Loop. Recursion)JS/lesson7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson8_(OOP)JS/lesson8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/.idea/PracticeJS_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson1_JS/scripts/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/.idea/PracticeLesson2_JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson2_JS/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson3_JS/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson4_JS/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson5_JS/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson6_JS/practice6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson7_JS/practise7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeLesson8_JS/Practice8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1874">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="73" lean-forward="true" selection-start-line="56" selection-end-line="73" />
-              <folding>
-                <element signature="e#1249#1535#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,15 +127,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js" />
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -94,25 +154,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -137,17 +178,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.HW8(Popelushka).js">
+  <component name="RunManager" selected="Node.js.HomeWork9.js">
     <configuration name="HW8(Popelushka).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HW8(Popelushka).js" working-dir="$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS">
       <method v="2" />
     </configuration>
-    <configuration name="Practice8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Practice8.js" working-dir="$PROJECT_DIR$/PracticeLesson8_JS">
+    <configuration name="HomeWork9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HomeWork9.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson9_(Function constuctors. Call apply)">
       <method v="2" />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
-    <configuration name="practise7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="practise7.js" working-dir="$PROJECT_DIR$/PracticeLesson7_JS">
+    <configuration name="lesson9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="lesson9.js" working-dir="$PROJECT_DIR$/Lessons-JS/Lesson9_(Function constuctors. Call apply)JS">
       <method v="2" />
     </configuration>
     <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/Lesson5_(Array Function)JS">
@@ -161,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.HomeWork9.js" />
+        <item itemvalue="Node.js.lesson9.js" />
         <item itemvalue="Node.js.HW8(Popelushka).js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.script.js (1)" />
-        <item itemvalue="Node.js.practise7.js" />
-        <item itemvalue="Node.js.Practice8.js" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +257,7 @@
       <workItem from="1567713310971" duration="9643000" />
       <workItem from="1567766723754" duration="13712000" />
       <workItem from="1567853400114" duration="11249000" />
+      <workItem from="1568103707368" duration="11017000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -255,32 +297,6 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11249000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13009404" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -290,12 +306,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -322,34 +332,5 @@
     <MESSAGE value="HomeWorkLesson7" />
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
     <option name="LAST_COMMIT_MESSAGE" value="Lesson8 &amp; HomeWork_lesson8" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson5_(Array Function)JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1874">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorkLesson8_(OOP)JS/HW8(Popelushka).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="73" lean-forward="true" selection-start-line="56" selection-end-line="73" />
-          <folding>
-            <element signature="e#1249#1535#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
