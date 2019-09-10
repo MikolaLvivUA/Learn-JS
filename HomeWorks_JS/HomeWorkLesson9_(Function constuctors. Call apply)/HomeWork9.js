@@ -86,3 +86,5 @@ let Ferrari = new SuperCar('Lambergini', 'Galardo', '2010', 9.0, 900,
     true, false);
 
 SuperCar.prototype = Object.create(Car.prototype);
+
+Ferrari.carInfo();
