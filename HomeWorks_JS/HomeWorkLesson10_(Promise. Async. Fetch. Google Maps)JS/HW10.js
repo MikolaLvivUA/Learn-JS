@@ -221,8 +221,24 @@ function coffeBreak(result) {
 
 async function schedule() {
 
-    console.log(WakeUP('YES'));
+   let wakeUp = await WakeUP('YES');
+    console.log(wakeUp);
 
+   let breakfast = await Breakfast('YES');
+    console.log(breakfast);
+
+   let GoToWork = await goToWork('NO');
+    console.log(GoToWork);
+
+   let Working = await working('YES');
+    console.log(Working);
+
+   let Lunch = await lunch('YES');
+   console.log(Lunch);
+
+    console.log(Working);
+
+    let CoffeeBreak =
 }
 
 schedule();

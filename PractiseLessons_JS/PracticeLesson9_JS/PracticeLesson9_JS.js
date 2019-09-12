@@ -27,9 +27,9 @@ Array.prototype.minString = function() {
 
 Array.prototype.findIdField = function
 
-// let arr = [2,6,464,64,61,5,8,591,561];
-// let arr2 = [1,5,-3];
-// let arr3 = ['Mym', 'Name', 'is', 'uuuuuuuuI'];
+let arr = [2,6,464,64,61,5,8,591,561];
+let arr2 = [1,5,-3];
+let arr3 = ['Mym', 'Name', 'is', 'uuuuuuuuI'];
 
 let arr4 = [
     {name: Mykola , id: 1},
@@ -46,4 +46,13 @@ arr2.minValue(arr2);*/
 
 arr3.minString();
 
+
+Array.prototype.Myforeach = function (cb) {
+
+    let i;
+    let lenght = this.length;
+    for (i=0; i<lenght; i++){
+        cb(this[i])
+    }
+};
 
