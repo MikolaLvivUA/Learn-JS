@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PractiseLessons_JS/Practice9_JS/Practice9.js" beforeDir="false" afterPath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js" beforeDir="false" afterPath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,95 +11,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson9_(Function constuctors. Call apply)/HomeWork9.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1055" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-125">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson9_(Function constuctors. Call apply)JS/lesson9.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1505" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson5_(Array Function)JS/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson7_(Callback. Event Loop. Recursion)JS/lesson7.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson8_(OOP)JS/HW8.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-585" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson8_(OOP)JS/lesson8.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1460" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -110,17 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/PractiseLessons_JS/Practice9_JS/Practice9.js" />
-        <option value="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js" />
-        <option value="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" />
-        <option value="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/index.html" />
-        <option value="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -148,94 +53,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson6_(Closures.Arrow Function.)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson7_(Callback.Event loop.Recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson8_(OOP)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson9_(Function constuctors. Call apply)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorks_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson5_(Array Function)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson7_(Callback. Event Loop. Recursion)JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PractiseLessons_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PractiseLessons_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeLesson9_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PractiseLessons_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeLesson10_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -261,10 +78,10 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.practice10.js">
-    <configuration name="HW10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS">
+    <configuration name="BT.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BonusTasks/BT.js" working-dir="$PROJECT_DIR$/BonusTasks">
       <method v="2" />
     </configuration>
-    <configuration name="HomeWork9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="HomeWork9.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson9_(Function constuctors. Call apply)">
+    <configuration name="HW10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS">
       <method v="2" />
     </configuration>
     <configuration name="PracticeLesson9_JS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js" working-dir="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS">
@@ -285,10 +102,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.practice10.js" />
+        <item itemvalue="Node.js.BT.js" />
         <item itemvalue="Node.js.HW10.js" />
         <item itemvalue="Node.js.PracticeLesson9_JS.js" />
         <item itemvalue="Node.js.lesson10.js" />
-        <item itemvalue="Node.js.HomeWork9.js" />
       </list>
     </recent_temporary>
   </component>
@@ -343,6 +160,8 @@
       <workItem from="1568134787271" duration="5118000" />
       <workItem from="1568285100556" duration="14470000" />
       <workItem from="1568306484983" duration="9032000" />
+      <workItem from="1568581830284" duration="2459000" />
+      <workItem from="1568632017442" duration="5265000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -382,32 +201,6 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9032000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24944155" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.31270358" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -417,12 +210,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -449,73 +236,5 @@
     <MESSAGE value="HomeWorkLesson7" />
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
     <option name="LAST_COMMIT_MESSAGE" value="Lesson8 &amp; HomeWork_lesson8" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson8_JS/Practice8.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson6_(Closures.Arrow Function.)JS/homework6.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson8_(OOP)JS/HW8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson8_(OOP)JS/lesson8.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1460" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson9_(Function constuctors. Call apply)/HomeWork9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1055" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson7_(Callback. Event Loop. Recursion)JS/lesson7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson9_(Function constuctors. Call apply)JS/lesson9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1505" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lessons-JS/Lesson5_(Array Function)JS/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

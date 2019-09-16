@@ -14,19 +14,6 @@ function printer(string) {
             printer('Hello World');
 
 
-        } else {
-            function reversePrinter(string) {
-
-                if (i > 0) {
-                    console.clear();
-                    console.log(string.slice(string.length, 0));
-
-                    i--;
-                    reversePrinter('Hello World');
-
-                }
-            }
-            reversePrinter('Hello World')
         }
     }, delay);
 }

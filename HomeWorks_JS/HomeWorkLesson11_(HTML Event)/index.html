@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HomeWork10</title>
+    <style>
+        .ColorBlock {
+            width: 200px;
+            height: 200px;
+            border: 3px groove gold;
+            background: gold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="ColorBlock"></div>
+    <p>RED <input type="range" min="0" max="255" step="1" value="120" class="redRange"></p>
+    <p>GREEN <input type="range" min="0" max="255" step="1" value="120" class="greenRange"></p>
+    <p>BLUE <input type="range" min="0" max="255" step="1" value="120" class="blueRange"></p>
+    <p class="RGB"></p>
+
+
+
+
+<script>
+
+    let [colBlock] = document.getElementsByClassName("ColorBlock");
+    let [red] = document.getElementsByClassName("redRange");
+    let [green] = document.getElementsByClassName("greenRange");
+    let [blue] = document.getElementsByClassName("blueRange");
+    let [rgb] = document.getElementsByClassName("RGB");
+
+
+    red.oninput = () => {colBlock.style.background = `rgb(${red.value}, ${green.value}, ${blue.value})`;
+        rgb.innerText = `RGB: ${red.value}, ${green.value}, ${blue.value}`
+    };
+
+    green.oninput = () => {colBlock.style.background = `rgb(${red.value}, ${green.value}, ${blue.value})`;
+        rgb.innerText = `RGB: ${red.value}, ${green.value}, ${blue.value}`
+    };
+
+    blue.oninput = () => {colBlock.style.background = `rgb(${red.value}, ${green.value}, ${blue.value})`;
+        rgb.innerText = `RGB: ${red.value}, ${green.value}, ${blue.value}`
+    };
+
+
+
+
+
+
+</script>
+
+
+
+</body>
+</html>
