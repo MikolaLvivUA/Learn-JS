@@ -5,6 +5,37 @@
     <title>Title</title>
 </head>
 <body>
+    <!--Fetch це інтерфейс який дозволяє робити запити на сторонні ресурси, під капотомє штука яка називається XML HTTP
+        requests-->
 
+    <script>
+        //приймає url під капотом повертає проміс
+        /*
+        fetch('https://jsonplaceholder.typicode.com/todos')
+            .then(value => {
+                console.log(value);
+            })
+            */
+
+        /*
+        fetch('https://jsonplaceholder.typicode.com/todos')
+            .then(value => value.json())//цей метод перетворює наш запит в json
+            .then(jsoinedValue => {
+                console.log(jsoinedValue);//Логаєм наш json в консоль
+            })
+            */
+
+
+        //API курс валют приват банку
+
+        fetch('https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5')
+            .then(value => value.json())//цей метод перетворює наш запит в json
+            .then(jsoinedValue => {
+                jsoinedValue.forEach(kurs => {
+                    document.write(`${kurs.ccy} to ${kurs.base_ccy} is: BUY ${kurs.buy} - SALE ${kurs.sale} <p>`)
+                })
+            })
+
+    </script>
 </body>
 </html>

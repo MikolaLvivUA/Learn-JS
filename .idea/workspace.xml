@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js" beforeDir="false" afterPath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS/practice10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons-JS/Lesson10_(Promise. Async. Fetch. Google Maps)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons-JS/Lesson10_(Promise. Async. Fetch. Google Maps)/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +161,7 @@
       <workItem from="1568285100556" duration="14470000" />
       <workItem from="1568306484983" duration="9032000" />
       <workItem from="1568581830284" duration="2459000" />
-      <workItem from="1568632017442" duration="5265000" />
+      <workItem from="1568632017442" duration="7768000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567693533285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practice 10 &amp; HomeWork11">
+      <created>1568664019097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568664019097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +242,7 @@
     <MESSAGE value="Consultatuion 3 &amp; deep copy" />
     <MESSAGE value="HomeWorkLesson7" />
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson8 &amp; HomeWork_lesson8" />
+    <MESSAGE value="Practice 10 &amp; HomeWork11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice 10 &amp; HomeWork11" />
   </component>
 </project>
