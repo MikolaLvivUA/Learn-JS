@@ -157,24 +157,22 @@ id , class та тегу
     let [textInput] = document.getElementsByClassName("textField")
 
 
-
-    textInput.onchange = () =>{
+    textInput.onchange = () => {
 
 
         let enteredTextarr = textInput.value.split(" ");
 
-        for (let i = 0; i < enteredTextarr.length; i++){
+        for (let i = 0; i < enteredTextarr.length; i++) {
 
-            for (let j = 0; j < badWords.length; j++){
+            for (let j = 0; j < badWords.length; j++) {
 
-                if (enteredTextarr[i] === badWords[j]){
+                if (enteredTextarr[i] === badWords[j]) {
 
                     alert("Error");
                 }
 
             }
         }
-
 
 
     }

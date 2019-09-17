@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PRactice11</title>
+    <style>
+
+
+
+        #block4{
+            width: 200px;
+            height: 200px;
+            background: red;
+        }
+
+        .hidden{
+            display: none;
+        }
+
+        .mainblock{
+            margin: 0 auto;
+            position: relative;
+            display: flex;
+            width: 600px;
+            height: 200px;
+            border: 2px solid black;
+            overflow: hidden;
+        }
+
+        .hiddenblock{
+            display: flex;
+            position: relative;
+            left: -300px;
+
+
+        }
+
+        .hiddenblock div {
+
+            width: 200px;
+            height: 200px;
+
+
+
+        }
+
+
+        .img1{
+            background: red;
+        }
+
+        .img2{
+            background: green;
+        }
+
+        .img3{
+            background: yellow;
+        }
+
+        .img4{
+            background: blue;
+        }
+
+        .img5{
+            background: pink;
+        }
+
+        .img6{
+            background: purple;
+        }
+
+        .btns{
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .btns button{
+            display: block;
+
+        }
+
+    </style>
+</head>
+<body>
+
+
+<!--1 Используя JavaScript, сделайте так, чтобы при клике на кнопку исчезал элемент с id="text".-->
+<button id="btn">HIDDEN</button>
+<div id="text">sdjfsdklfhjlfhjaklhfjlkhajklfhajkl</div>
+
+<!--2 Создайте кнопку, при клике на которую, она будет скрывать сама себя.-->
+
+<button id="btn2">click me!!!</button>
+
+
+<!--3 створити інпут який приймає вік людини та кнопку яка підтверджує дію.
+При натисканні на кнопку зчитати інформацію з інпуту та перевірити вік чи меньше він ніж 18, та повідомити про це користувача-->
+<p></p>
+
+<button id="btn3">CHECK AGE</button>
+<input type="text" id="age">
+
+<p></p>
+
+
+<!--4 Створити інпут з бігунком та блок 200*200, при переміщені бігунка блок збільшує свою ширину пропорційно.
+ Задати бігунку мінімальні значення в 200 максимальне в 600-->
+<input type="range" min="200" max="600" step="1" value="200" id="sizer">
+<div id="block4"></div>
+
+
+<!--5 Создайте меню, которое раскрывается/сворачивается при клике:-->
+
+<button id="btn5">MENU</button>
+
+<ul id="menu" class="hidden">
+    <li>Home</li>
+    <li>About US</li>
+    <li>Galery</li>
+</ul>
+
+<!--6 Есть список сообщений. Добавьте каждому сообщению по кнопке для его скрытия.-->
+
+
+
+<ul >
+    <li id="message1">Hello <button id="hiddenb1">hide</button></li>
+    <li id="message2">I have <button id="hiddenb2">hide</button></li>
+    <li id="message3">nice photo <button id="hiddenb3">hide</button></li>
+</ul>
+
+
+<!--7 Напишите «Карусель» – ленту изображений, которую можно листать влево-вправо нажатием на стрелочки.-->
+
+
+<div class="mainblock">
+    <div class="hiddenblock">
+        <div class = "img1"></div>
+        <div class = "img2"></div>
+        <div class = "img3"></div>
+        <div class = "img4"></div>
+        <div class = "img5"></div>
+        <div class = "img6"></div>
+    </div>
+</div>
+
+<div class="btns">
+    <button id="btnLeft"><<<<<</button>
+    <button id="btnRight">>>>>>></button>
+
+</div>
+
+<script>
+
+    /*<!--1 Используя JavaScript, сделайте так, чтобы при клике на кнопку исчезал элемент с id="text".-->*/
+
+    let text = document.getElementById("text");
+    let btn = document.getElementById("btn");
+
+    btn.onclick = () => {
+
+        text.hidden = true;
+
+    }
+
+    /*2 Создайте кнопку, при клике на которую, она будет скрывать сама себя.*/
+
+    let btn2 = document.getElementById("btn2")
+
+
+    btn2.onclick = () => {
+
+        btn2.style.visibility = 'hidden';
+
+
+    }
+
+    /*3 створити інпут який приймає вік людини та кнопку яка підтверджує дію.
+При натисканні на кнопку зчитати інформацію з інпуту та перевірити вік чи меньше він ніж 18, та повідомити про це користувача*/
+
+
+    let btn3 = document.getElementById("btn3");
+    let ageField = document.getElementById("age");
+
+    btn3.onclick = () => {
+
+        if (ageField.value < 18){
+            alert("ADULT ONLY!!!")
+        } else {
+            alert("WELCOME!")
+        }
+
+    }
+
+
+    /*Створити інпут з бігунком та блок 200*200, при переміщені бігунка блок збільшує свою ширину пропорційно.
+ Задати бігунку мінімальні значення в 200 максимальне в 600*/
+
+
+    let sizer = document.getElementById("sizer")
+    let block4 = document.getElementById("block4")
+
+
+    sizer.oninput = () => {
+
+        block4.style.width = `${sizer.value}px`
+        block4.style.height = `${sizer.value}px`
+
+    }
+
+
+    /*5 Создайте меню, которое раскрывается/сворачивается при клике:*/
+
+    let btn5 = document.getElementById("btn5");
+    let menu = document.getElementById("menu")
+
+    btn5.onclick = () => {
+
+        menu.classList.toggle("hidden")
+
+    }
+
+    /*6 Есть список сообщений. Добавьте каждому сообщению по кнопке для его скрытия.*/
+
+
+    let hiddenbutton1 = document.getElementById("hiddenb1");
+    let hiddenbutton2 = document.getElementById("hiddenb2");
+    let hiddenbutton3 = document.getElementById("hiddenb3");
+
+    let massage1 = document.getElementById("message1");
+    let massage2 = document.getElementById("message2");
+    let massage3 = document.getElementById("message3");
+
+
+    hiddenbutton1.onclick = () => {
+        massage1.hidden = true;
+    };
+
+    hiddenbutton2.onclick = () => {
+        massage2.hidden = true;
+    };
+
+    hiddenbutton3.onclick = () => {
+        massage3.hidden = true;
+    }
+
+
+    /*TASK7*/
+
+    let [svipeblock] = document.getElementsByClassName("hiddenblock")
+    let btnleft = document.getElementById("btnLeft")
+    let btnright = document.getElementById("btnRight")
+
+
+    btnleft.onclick = () => {
+
+        svipeblock.style.left = `-20px`
+
+
+
+    };
+
+    btnright.onclick = () => {
+        let x = 10;
+        svipeblock.style.left = `${++x}px`
+    }
+
+</script>
+
+</body>
+</html>
