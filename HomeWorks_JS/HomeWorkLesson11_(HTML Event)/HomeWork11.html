@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HomeWork11</title>
+    <style>
+        table td {
+            padding: 20px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+
+<!--- створити блок з id, class та текстом в середені. Зчитати окремо цей текст за селекторів по
+id , class та тегу
+- змінити цей текст використовуючи селектори id, class,  tag
+- створити функцію яка змінюватиме розміри та колір цього блоку згідно з визначиними аргументами-->
+
+<div class="task1" id="TASK1">Hello World</div>
+
+
+<!--- створити дві форми , по два інпути в кожній
+ ствоирити кнопку при кліку на яку считується та виводиться на консоль інформація з цих форм-->
+
+<button class="btn">CONSOLE LOG FORM INFORMATION</button>
+
+<form action="#">
+
+    <input type="text" class="inputs1">
+    <input type="text" class="inputs2">
+
+</form>
+<p></p>
+<form action="#">
+    <input type="text" class="inputs3">
+    <input type="text" class="inputs4">
+</form>
+
+
+<!--- Створити функцію, яка генерує таблицю, перший аргумент визначає кількість строк,
+ а другий параметр визначає кліькіть ячеєк в кожній строці.
+ третій параметр визначає елемент в який потрібно таблицю додати
+-->
+<div class="tab"></div>
+
+<!--- Сворити масив не цензцрних слів.
+Сворити інпут текстового типу.
+Якщо людина вводить слово і воно міститься в масиві не цензурних слів
+кинути алерт з попередженням.
+-->
+<input type="text" class="word">
+
+<!-- - Робимо попередню логіку цікавішею.
+Все те саме, але тепер потрібно перевіряти чи не містить ціле речення в собі погані слова-->
+<p>Робимо попередню логіку цікавішею.
+    Все те саме, але тепер потрібно перевіряти чи не містить ціле речення в собі погані слова</p>
+<input type="text" class="textField">
+<script>
+
+    let textFromId = document.getElementById("TASK1");
+    let [textFromClass] = document.getElementsByClassName("task1");
+    let [textFromTag] = document.getElementsByTagName("div");
+
+    /*- змінити цей текст використовуючи селектори id, class,  tag*/
+    textFromId.innerText = "Hello ID";
+
+    textFromClass.innerText = "Hello Class";
+
+    textFromTag.innerText = "Hello Tag";
+
+    /*- створити функцію яка змінюватиме розміри та колір цього блоку згідно з визначиними аргументами-->*/
+
+    function sizeColorChange(width, height, r, g, b) {
+
+        if (r > 255 || g > 255 || b > 255) {
+            alert("Color Value can't be more than 255")
+        }
+
+        textFromId.style.width = `${width}px`;
+        textFromId.style.height = `${height}px`
+        textFromId.style.background = `rgb(${r},${g},${b})`
+
+    }
+
+    sizeColorChange(200, 200, 135, 145, 113);
+
+    /*ствоирити кнопку при кліку на яку считується та виводиться на консоль інформація з цих форм-->*/
+
+    let [btn] = document.getElementsByClassName("btn");
+
+    let inputs = document.getElementsByTagName("input");
+
+
+    btn.onclick = () => {
+
+        for (let i = 0; i < inputs.length; i++) {
+
+            console.log(inputs[i].value);
+
+        }
+    };
+
+    /*- Створити функцію, яка генерує таблицю, перший аргумент визначає кількість строк,
+ а другий параметр визначає кліькіть ячеєк в кожній строці.
+ третій параметр визначає елемент в який потрібно таблицю додати
+*/
+    let [taba] = document.getElementsByClassName("tab");
+
+
+    function tableCreate(parent, cols, rows, value) {
+
+        let table = document.createElement("table");
+
+        for (let i = 0; i < rows; i++) {
+            let tr = document.createElement("tr");
+
+            for (let j = 0; j < cols; j++) {
+                let td = document.createElement("td");
+                tr.appendChild(td);
+                td.innerText = `${value}`
+            }
+
+
+            table.appendChild(tr);
+
+        }
+        parent.appendChild(table);
+    }
+
+    tableCreate(taba, 3, 3, "Hello World");
+
+    /*- Сворити масив не цензцрних слів.
+    Сворити інпут текстового типу.
+    Якщо людина вводить слово і воно міститься в масиві не цензурних слів
+    кинути алерт з попередженням.
+    */
+
+    let badWords = ['Fuck', 'Shit'];
+
+    let [wordInput] = document.getElementsByClassName("word");
+
+
+    wordInput.onchange = () => {
+        for (let i = 0; i < badWords.length; i++) {
+
+            if (badWords[i] === wordInput.value) {
+                alert("ERROR");
+            }
+
+        }
+    };
+
+    /*- Робимо попередню логіку цікавішею.
+Все те саме, але тепер потрібно перевіряти чи не містить ціле речення в собі погані слова*/
+
+    let [textInput] = document.getElementsByClassName("textField")
+
+
+
+    textInput.onchange = () =>{
+
+
+        let enteredTextarr = textInput.value.split(" ");
+
+        for (let i = 0; i < enteredTextarr.length; i++){
+
+            for (let j = 0; j < badWords.length; j++){
+
+                if (enteredTextarr[i] === badWords[j]){
+
+                    alert("Error");
+                }
+
+            }
+        }
+
+
+
+    }
+
+
+</script>
+
+
+</body>
+</html>
