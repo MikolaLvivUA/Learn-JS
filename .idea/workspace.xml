@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,41 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="43" column="74" lean-forward="true" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLessons11_JS/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="270" column="7" lean-forward="true" selection-start-line="270" selection-start-column="7" selection-end-line="270" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -57,14 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html" />
-        <option value="$PROJECT_DIR$/PractiseLessons_JS/PracticeLessons11_JS/index.html" />
-      </list>
-    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -82,51 +43,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="640" />
-    <option name="height" value="555" />
-  </component>
   <component name="ProjectId" id="1PTZ8bO0VtbOtWvfPZ59HdnCZKt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PractiseLessons_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn-JS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PractiseLessons_JS" type="462c0819:PsiDirectoryNode" />
-              <item name="PracticeLessons11_JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -146,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.HomeWork11.html">
+  <component name="RunManager" selected="Node.js.script.js (1)">
     <configuration name="HomeWork11.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Learn-JS/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -156,13 +82,13 @@
     <configuration name="HW10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS">
       <method v="2" />
     </configuration>
-    <configuration name="PracticeLesson9_JS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS/PracticeLesson9_JS.js" working-dir="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson9_JS">
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
     <configuration name="practice10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="practice10.js" working-dir="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Others/Escaping Button/script.js" working-dir="$PROJECT_DIR$/Others/Escaping Button">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="PracticeLesson3_JS/script.js" working-dir="$PROJECT_DIR$">
@@ -170,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="JavaScript Debug.HomeWork11.html" />
         <item itemvalue="Node.js.practice10.js" />
         <item itemvalue="Node.js.BT.js" />
         <item itemvalue="Node.js.HW10.js" />
-        <item itemvalue="Node.js.PracticeLesson9_JS.js" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +161,7 @@
       <workItem from="1568726041174" duration="5507000" />
       <workItem from="1568732191109" duration="1859000" />
       <workItem from="1568739356249" duration="7196000" />
+      <workItem from="1568749890159" duration="5146000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -288,32 +215,6 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7196000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -323,12 +224,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -356,28 +251,5 @@
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
     <MESSAGE value="Practice 10 &amp; HomeWork11" />
     <option name="LAST_COMMIT_MESSAGE" value="Practice 10 &amp; HomeWork11" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="43" column="74" lean-forward="true" selection-start-line="43" selection-start-column="74" selection-end-line="43" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PractiseLessons_JS/PracticeLessons11_JS/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="270" column="7" lean-forward="true" selection-start-line="270" selection-start-column="7" selection-end-line="270" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

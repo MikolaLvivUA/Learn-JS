@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: aqua;
+    max-height: 920px;
+    position: absolute;
+}
+
+.btn{
+    position: relative;
+    left: 560px;
+    top: 500px;
+    width: 150px;
+    height: 50px;
+
+}
+
+h1{
+    text-align: center;
+    position: relative;
+}
