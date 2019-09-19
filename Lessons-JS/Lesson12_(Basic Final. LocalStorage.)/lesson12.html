@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson11</title>
+    <style>
+
+        #red{
+            width: 200px;
+            height: 200px;
+            background-color: darkred;
+        }
+
+        #green{
+            width: 100px;
+            height: 100px;
+            background-color: darkgreen;
+        }
+
+        #blue{
+            width: 50px;
+            height: 50px;
+            background-color: darkblue;
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <!--Prevent default &StopPropagation-->
+
+    <div id = "red">
+        <div id = "green">
+            <div id="blue">
+
+            </div>
+        </div>
+    </div>
+
+
+    <form id = "goodForm" name="formName">
+        <input type="text" name="email">
+        <input type="text" name="pass">
+        <input type="submit" value="OK" name="ok"> <!--Якщо ми будем натискати на цю кнопку сторінка буде презагружатись-->
+    </form>
+
+    <script>
+        /*Витягуєм елементи з HTML за допомогою JS по ID*/
+        let redDiv = document.getElementById("red");
+        let greenDiv = document.getElementById("green");
+        let blueDiv = document.getElementById("blue");
+
+
+        /*Якщо ми будем клацати по дівкам в такому випадку, то будуть викликатись всы дывки якы знаходяться пыд тою на
+        яку ми клацаэм*/
+        /*
+        redDiv.onclick = () => {
+            console.log('red');
+        };
+        greenDiv.onclick = () => {
+            console.log('green');
+        };
+        blueDiv.onclick = () => {
+            console.log('blue');
+        };
+        */
+
+        //Таким чином ми викликаэм Event listener, який приймаэ івент але без слова on, і відповідно колбе з дією яку ми маєм виконати
+        redDiv.addEventListener('click', ev =>{
+            console.log('red');
+        }); //Якщо ми тут задамо булівський параметр тру тоді цей елемент буде викликатись першим
+
+        greenDiv.addEventListener('click', ev =>{
+            console.log('green');
+        });
+
+        blueDiv.addEventListener('click', ev =>{
+            console.log('blue');
+            ev.stopPropagation() //цей метод зупиняэ виконання ывентыв які знаходяться під ним. Тобто виведе нам тільки синю дівку
+        });
+
+
+        /**Forms API*/
+
+        let formName = document.forms.formName; //Таким чином ми викликаємо нашу форму
+
+        let email = formName.email; // А таким чином ми можемо діставати те що знаходиться у нашій формі
+        let pass = formName.pass;
+
+        let okBtn = formName.ok;
+
+        okBtn.onclick = ev  =>{
+
+            ev.preventDefault(); //Цей метод онуляє всю поведінку яка йде з коробки(Наша сторінка не буде перезагружатись при кліку кнопки)
+            console.log(email.value);
+            console.log(pass.value);
+        };
+
+        /** localStorage*/
+
+        localStorage.setItem('Group', JSON.stringify({name: 'Victor', car: false}));
+        localStorage.setItem('You', JSON.stringify(['Mykola', 'Okasana', 'Roman'])); //таким чином ми задаэм якісь дані в localStorage
+
+        let item = localStorage.getItem('You');//Таким чином ми отримуэм якысь значення з localStorage
+
+        console.log(JSON.parse(item));
+
+        localStorage.removeItem('Group');// Тким чином ми видаляэм якісь дані з localStorage
+
+        localStorage.clear()
+
+
+
+
+
+    </script>
+
+</body>
+</html>

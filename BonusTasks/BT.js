@@ -49,6 +49,7 @@
 
 //n - ряди
 //m - крісла
+/*
 
 let arr1 = [7, 8, 9,
             4, 5, 6,
@@ -70,4 +71,26 @@ for (let i = 0; i < arr1.length; i++) {
 
     }
 
+}*/
+
+
+
+let string = "Hello World";
+let stringArr = string.split("");
+console.log(stringArr.length);
+console.log(stringArr);
+
+let i = stringArr.length;
+
+function recurs(string) {
+
+    if (i > 0){
+        console.log(stringArr.pop());
+        i--;
+        recurs(string)
+    }
+
 }
+
+recurs(string);
+

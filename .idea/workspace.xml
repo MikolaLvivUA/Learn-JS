@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BonusTasks/BT.js" beforeDir="false" afterPath="$PROJECT_DIR$/BonusTasks/BT.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.script.js (1)">
+  <component name="RunManager" selected="Node.js.BT.js">
     <configuration name="HomeWork11.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Learn-JS/HomeWorks_JS/HomeWorkLesson11_(HTML Event)/HomeWork11.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -96,10 +97,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.BT.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="JavaScript Debug.HomeWork11.html" />
         <item itemvalue="Node.js.practice10.js" />
-        <item itemvalue="Node.js.BT.js" />
         <item itemvalue="Node.js.HW10.js" />
       </list>
     </recent_temporary>
@@ -161,7 +162,10 @@
       <workItem from="1568726041174" duration="5507000" />
       <workItem from="1568732191109" duration="1859000" />
       <workItem from="1568739356249" duration="7196000" />
-      <workItem from="1568749890159" duration="5146000" />
+      <workItem from="1568749890159" duration="5249000" />
+      <workItem from="1568827066358" duration="1776000" />
+      <workItem from="1568888566549" duration="2995000" />
+      <workItem from="1568906422439" duration="7855000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568666450731</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice 10 &amp; HomeWork11">
+      <created>1568755702847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568755702847</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
