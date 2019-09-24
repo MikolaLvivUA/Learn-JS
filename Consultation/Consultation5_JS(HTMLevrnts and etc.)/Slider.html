@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <button id="left">LEFT</button>
+    <div><img src="images/243.jpg" alt=""></div>
+    <div><img src="images/59833fe279bbd15da8b18cc3.jpg" alt=""></div>
+    <div><img src="images/fin.jpg" alt=""></div>
+    <button id="right">RIGHT</button>
+
+
+    <script>
+        let divs = document.getElementsByTagName('div');
+        let left = document.getElementById('left');
+        let right = document.getElementById('right');
+
+        let shovedDiv = 0;
+
+        divs[0].style.display = 'inline-block';
+
+
+
+        left.onclick = () => {
+
+            // shovedDiv = shovedDiv === divs.length-1 ? shovedDiv = 0 : shovedDiv;
+
+
+
+            divs[shovedDiv].style.display = 'none';
+            shovedDiv --;
+
+            if (shovedDiv < 0){
+                shovedDiv = divs.length - 1;
+            }
+
+            divs[shovedDiv].style.display = 'inline-block';
+
+            clearInterval(int)//Очишчає інтервал
+
+        };
+
+        right.onclick = () =>{
+
+
+
+            divs[shovedDiv].style.display = 'none';
+            shovedDiv ++;
+
+            if (shovedDiv > divs.length -1){
+                shovedDiv = 0
+            }
+
+            divs[shovedDiv].style.display = 'inline-block';
+
+            clearInterval(int)
+
+        };
+
+
+        let int = setInterval(() => {
+                divs[shovedDiv].style.display = 'none';
+                shovedDiv ++;
+
+                if (shovedDiv > divs.length -1){
+                    shovedDiv = 0
+                }
+
+                divs[shovedDiv].style.display = 'inline-block'
+            }, 500);
+
+
+
+    </script>
+
+
+
+
+</body>
+</html>

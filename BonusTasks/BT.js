@@ -17,7 +17,18 @@
  Answer: MinIndex = 3, MaxIndex = 6.*/
 
 
-// let arr = [1, 2, 3, 4, 4, 4, 4, 7, 7, 9, 14];
+let arr = [1, 2, 3, 4, 4, 4, 4, 7, 7, 9, 14];
+
+function indexFinder (arr, number){
+
+    let minIndex = arr.indexOf(number);
+    let maxIndex = arr.lastIndexOf(number);
+
+    console.log(`Answer: MinIndex = ${minIndex}, maxIndex = ${maxIndex}`);
+
+}
+
+indexFinder(arr, 1);
 
 
 /**Задача: в детском саду дети проводили утренник, его пришли посмотреть родители детей. Воспитатель рассадила всех родителей в зале из n рядов и m кресел: сначала в первый ряд зала слева направо, дальше во второй ряд слева направо и т.д. Так как родители сильно шумели, воспитатель рассадила их по-другому: сначала заполнила все первые места от первого ряда к последнему, затем вторые места и т.д.
@@ -73,6 +84,7 @@ for (let i = 0; i < arr1.length; i++) {
 
 }*/
 
+/*
 
 
 let string = "Hello World";
@@ -94,3 +106,4 @@ function recurs(string) {
 
 recurs(string);
 
+*/

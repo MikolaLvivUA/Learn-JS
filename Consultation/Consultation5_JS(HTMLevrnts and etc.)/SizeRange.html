@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        #divToChange{
+            background-color: darkblue;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+
+</head>
+<body>
+    <input type="range" id="range" value="200" max="400" min="100" step="1">
+    <div id="divToChange">
+
+    </div>
+
+
+
+    <script>
+        //Таска з з повзунком який змынюэ розмір дівки
+        let divToChange = document.getElementById('divToChange');
+        let range = document.getElementById('range');
+
+        range.oninput= () => {
+            const value = range.value;
+
+            divToChange.style.width = value + 'px';
+            divToChange.style.height = value + 'px';
+        }
+
+        //Таска з слайдером
+
+
+    </script>
+
+</body>
+</html>

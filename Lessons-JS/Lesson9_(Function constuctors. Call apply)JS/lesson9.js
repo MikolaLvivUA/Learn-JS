@@ -112,7 +112,7 @@ console.log(ravlik.stomach);
 console.log(myshka.stomach);
 */
 
-/**Привязка this, Call і Aply*/
+/**Привязка this, Call і Apply*/
 
 function sayHello() {
     console.log(`Hello. My name is ${this.name}`)

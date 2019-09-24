@@ -5,7 +5,10 @@
     <title>PRactice11</title>
     <style>
 
-
+        table td {
+            padding: 20px;
+            border: 1px solid black;
+        }
 
         #block4{
             width: 200px;
@@ -149,6 +152,22 @@
     <button id="btnRight">>>>>>></button>
 
 </div>
+<!--Создать функцию которая принимает какой-либо элемент DOM-структуры .Функция создает в боди 2 кнопки (назад/вперед)
+при нажатии вперед, вы переходите к дочернему элементу, при еще одном нажатии на "вперед", вы переходите к следующему дочернему элементу (лежащему на одном уровне)
+НО если у (какого-либо)дочеренего элемента есть дети, то нажатие "вперед" позволяет нам войти внутрь элемента и  выводит первого ребенка. и тд.
+Когда все дети заканчиваются, мы выходим из данного дочернего элемента и переходим к следующему, лежащему с ним на одном уровне-->
+
+<p>TASK8</p>
+
+<!--9 Створити 4 инпута. Один визначає кількість рядків, другий - кількість ячеєк, третій вмиіст ячеєк, четвертий -кнопка
+при натисканні кнопки, вся ця інформація зчитується і формується табличка, з відповідним вмістом.-->
+
+<input type="text" id="cols">
+<input type="text" id="rows">
+<button id="CREATOR">CREATE TABLE</button>
+<button id="remover">Delete table</button>
+
+
 
 <script>
 
@@ -161,7 +180,7 @@
 
         text.hidden = true;
 
-    }
+    };
 
     /*2 Создайте кнопку, при клике на которую, она будет скрывать сама себя.*/
 
@@ -173,7 +192,7 @@
         btn2.style.visibility = 'hidden';
 
 
-    }
+    };
 
     /*3 створити інпут який приймає вік людини та кнопку яка підтверджує дію.
 При натисканні на кнопку зчитати інформацію з інпуту та перевірити вік чи меньше він ніж 18, та повідомити про це користувача*/
@@ -247,22 +266,122 @@
 
     /*TASK7*/
 
-    let [svipeblock] = document.getElementsByClassName("hiddenblock")
-    let btnleft = document.getElementById("btnLeft")
-    let btnright = document.getElementById("btnRight")
+    let [svipeblock] = document.getElementsByClassName("hiddenblock");
+    let btnleft = document.getElementById("btnLeft");
+    let btnright = document.getElementById("btnRight");
 
 
+    let start =200;
     btnleft.onclick = () => {
-
-        svipeblock.style.left = `-20px`
+        svipeblock.style.left = `${start+=200}px`
 
 
 
     };
 
     btnright.onclick = () => {
-        let x = 10;
-        svipeblock.style.left = `${++x}px`
+        svipeblock.style.left = `${start-=200}px`
+
+    }
+
+
+    /*TASK8*/
+
+   /* function btnCreator(node) {
+        // Create and add buttons
+        const btnBack = document.createElement('button');
+        const btnForward = document.createElement('button');
+        btnBack.innerText = 'Back';
+        btnForward.innerText = 'Forward';
+        document.body.append(btnBack);
+        document.body.append(btnForward);
+
+        // Save initial element and set it as next for further comparison
+        const startElement = document.querySelector(node);
+        let nextElement = document.querySelector(node);
+
+        function checkNodes() {
+            // Check if element has children and choose first child
+            if (nextElement && nextElement.children.length) {
+                nextElement = nextElement.children[0];
+            } else {
+                // Check if element has sibling and choose this sibling
+                if (nextElement && nextElement.nextElementSibling) {
+                    nextElement = nextElement.nextElementSibling;
+                }
+                // Check if element has parent with sibling and choose it
+                else if (nextElement && nextElement.parentElement && nextElement.parentElement.nextElementSibling) {
+                    nextElement = nextElement.parentElement.nextElementSibling;
+                }
+                // Check if element doesn't have parent with sibling or sibling for itself
+                // and decide that element is ths last possible element
+                else {
+                    return console.info('Last element. Please try to go "Back"');
+                }
+            }
+            console.log(nextElement);
+        }
+
+        function checkNodesBack() {
+            // Check if our element not the same as initial and preserve user to go up more
+            if (startElement === nextElement) {
+                return console.log("start element");
+            }
+            // Check if element has sibling and choose this sibling
+            if (nextElement && nextElement.nextElementSibling) {
+                nextElement = nextElement.nextElementSibling;
+            }
+            // Check if element has parentElement and choose this parentElement
+            else if (nextElement && nextElement.parentElement) {
+                nextElement = nextElement.parentElement;
+            }
+            console.log(nextElement);
+        }
+
+        btnForward.addEventListener('click', checkNodes);
+        btnBack.addEventListener('click', checkNodesBack);
+    }
+
+
+    btnCreator('body');*/
+
+
+    /*TASK9*/
+
+    let cols = document.getElementById('cols');
+    let rows = document.getElementById('rows');
+    let [body] = document.getElementsByTagName('body');
+
+    let deleter = document.getElementById('remover');
+    let creatorBtn = document.getElementById('CREATOR');
+
+    function tableCreator() {
+        let table = document.createElement("table");
+
+        for (let i = 0; i < rows.value; i++) {
+            let tr = document.createElement("tr");
+
+            for (let j = 0; j < cols.value; j++) {
+                let td = document.createElement("td");
+                tr.appendChild(td);
+            }
+
+
+            table.appendChild(tr);
+
+        }
+        body.appendChild(table);
+    }
+
+
+    creatorBtn.onclick = () => {
+        tableCreator()
+    };
+
+    let table = document.getElementsByTagName("table");
+
+    deleter.onclick = () =>{
+
     }
 
 </script>

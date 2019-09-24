@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HomeWork12</title>
+</head>
+<body>
+
+<p>Task1</p>
+<input type="text" id="textArea1">
+<hr>
+
+
+<p>Task2</p>
+
+
+<form name="form1">
+
+    <input type="text" id="email">
+    <input type="text" id="age">
+
+
+
+<p></p>
+
+
+    <input type="radio" id="radioBtn" value="man" name="sex">
+    <label for="radioBtn">man</label>
+    <input type="radio" id="radioBtn2" value="woman" name="sex">
+    <label for="radioBtn2">woman</label>
+    <p></p>
+
+    <p><input type="checkbox" name="a" value="1417"> 1417</p>
+    <p><input type="checkbox" name="b" value="1680"> 1680</p>
+    <p><input type="checkbox" name="c" value="1883"> 1883</p>
+    <p><input type="checkbox" name="d" value="1934"> 1934</p>
+    <p><input type="checkbox" name="e" value="2010"> 2010</p>
+</form>
+
+
+
+    <p>Task3</p>
+
+
+
+
+
+
+<hr>
+<script>
+    /*Task1*/
+    let textArea1 = document.getElementById('textArea1');
+
+    textArea1.onkeydown = () => {
+        localStorage.setItem('textArea', `${textArea1.value}`);
+    };
+
+    let savedValue = localStorage.getItem('textArea', `${textArea1.value}`);
+
+    textArea1.value = savedValue;
+    /*/Task1*/
+
+    /*Task2*/
+
+    let Form1 = document.forms.form1;
+
+
+
+        Form1.addEventListener('input', () => {
+
+        let data = [];
+
+        data.push(Form1.email.value);
+        data.push(Form1.age.value);
+        data.push(Form1.sex.value);
+        data.push(Form1.a.checked);
+        data.push(Form1.b.checked);
+        data.push(Form1.c.checked);
+        data.push(Form1.d.checked);
+        data.push(Form1.e.checked);
+
+        localStorage.setItem('data', JSON.stringify(data))
+
+
+    });
+
+    window.addEventListener('load', () => {
+
+        let data = JSON.parse(localStorage.getItem('data'));
+
+        Form1.email.value = data[0];
+        Form1.age.value = data[1];
+        Form1.sex.value = data[2];
+        Form1.a.checked = data[3];
+        Form1.b.checked = data[4];
+        Form1.c.checked = data[5];
+        Form1.d.checked = data[6];
+        Form1.e.checked = data[7];
+
+
+
+
+
+    })
+
+    /*/Task2*/
+
+    /*Task3*/
+
+
+
+
+
+    /*/Task3*/
+
+
+</script>
+</body>
+</html>

@@ -4,6 +4,8 @@
     <list default="true" id="032b1d6a-fd36-483b-92e6-7b42f73ea440" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BonusTasks/BT.js" beforeDir="false" afterPath="$PROJECT_DIR$/BonusTasks/BT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lessons-JS/Lesson9_(Function constuctors. Call apply)JS/lesson9.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons-JS/Lesson9_(Function constuctors. Call apply)JS/lesson9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLessons11_JS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PractiseLessons_JS/PracticeLessons11_JS/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -80,10 +82,10 @@
     <configuration name="BT.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/BonusTasks/BT.js" working-dir="$PROJECT_DIR$/BonusTasks">
       <method v="2" />
     </configuration>
-    <configuration name="HW10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS/HW10.js" working-dir="$PROJECT_DIR$/HomeWorks_JS/HomeWorkLesson10_(Promise. Async. Fetch. Google Maps)JS">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/Lesson3_(Object.Arrays. Functions basic)JS/scripts.js">
+    <configuration name="consultation5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Consultation/Consultation5_JS(HTMLevrnts and etc.)/consultation5.js" working-dir="$PROJECT_DIR$/Consultation/Consultation5_JS(HTMLevrnts and etc.)">
       <method v="2" />
     </configuration>
     <configuration name="practice10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="practice10.js" working-dir="$PROJECT_DIR$/PractiseLessons_JS/PracticeLesson10_JS">
@@ -98,10 +100,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.BT.js" />
+        <item itemvalue="Node.js.consultation5.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="JavaScript Debug.HomeWork11.html" />
         <item itemvalue="Node.js.practice10.js" />
-        <item itemvalue="Node.js.HW10.js" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,13 @@
       <workItem from="1568749890159" duration="5249000" />
       <workItem from="1568827066358" duration="1776000" />
       <workItem from="1568888566549" duration="2995000" />
-      <workItem from="1568906422439" duration="7855000" />
+      <workItem from="1568906422439" duration="7907000" />
+      <workItem from="1568981444753" duration="9567000" />
+      <workItem from="1569055750866" duration="19553000" />
+      <workItem from="1569158443154" duration="2474000" />
+      <workItem from="1569169330261" duration="5000" />
+      <workItem from="1569260144092" duration="1586000" />
+      <workItem from="1569320054872" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="Consultatuion 3 &amp; deep copy">
       <created>1567506532388</created>
@@ -223,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568755702847</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 11 &amp; Lesson12 &amp; Others">
+      <created>1568926988558</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568926988558</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +276,7 @@
     <MESSAGE value="HomeWorkLesson7" />
     <MESSAGE value="Lesson8 &amp; HomeWork_lesson8" />
     <MESSAGE value="Practice 10 &amp; HomeWork11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice 10 &amp; HomeWork11" />
+    <MESSAGE value="Lesson 11 &amp; Lesson12 &amp; Others" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 11 &amp; Lesson12 &amp; Others" />
   </component>
 </project>
